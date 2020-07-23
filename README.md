@@ -4,6 +4,7 @@ author: Stanisław Anioła
 email: aniolsatnislaw@gmail.com
 
 Language: Python
+Recommended IDE: Jupyter Notebook
 ___________________________________
 Project use:
 - numpy
