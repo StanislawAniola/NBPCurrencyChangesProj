@@ -1,7 +1,7 @@
 # NBPCurrencyChangesProj
 
-author: Stanisław Anioła
-email: aniolsatnislaw@gmail.com
+- author: Stanisław Anioła
+- email: aniolsatnislaw@gmail.com
 
 Language: Python
 Recommended IDE: Jupyter Notebook
