@@ -10,7 +10,7 @@ Project use:
 - numpy
 - pandas
 - requests
-- jaon
+- json
 - matplotlib
 - datetime
 - tkinter
