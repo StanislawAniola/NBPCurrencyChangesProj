@@ -7,7 +7,6 @@
 - Recommended IDE: Jupyter Notebook
 ___________________________________
 Project use:
-- numpy
 - pandas
 - requests
 - json
