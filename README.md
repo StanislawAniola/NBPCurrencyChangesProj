@@ -6,7 +6,7 @@
 - Language: Python
 - Recommended IDE: Jupyter Notebook
 ___________________________________
-HOW TO USE:
+HOW TO USE (it should also work with PyCharm or any other IDE):
 1. download project
 2. download Anaconda (https://www.anaconda.com/products/individual)
 3. run Anaconda prompt -> navigate to project -> type and execute: pip install -r requirements.txt
